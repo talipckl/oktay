@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "name": "Münih: Savaş Yaklaşıyor",
+      "rating": "8.5",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1SOiUTDnwW9gU4GzSIsOCQUlHJF.jpg",
+      "overview": "1938'in sonbaharında Avrupa savaşın eşiğindedir. Adolf Hitler Çekoslovakya'yı işgal etmeye hazırlanırken Neville Chamberlain'in hükûmeti çaresizce barışçıl bir çözüm arayışındadır. Baskı giderek artarken İngiliz devlet memuru Hugh Legat ile Alman diplomat Paul von Hartmann, acil durum konferansı için Münih'e gider. Müzakerelerin başladığı sırada bu iki eski dost kendi",
+      "id": 15
+    },
+    {
+      "name": "Squid Game",
+      "rating": "9.8",
+      "overview": "Para sıkıntısı çeken yüzlerce oyuncu, tuhaf bir davet alır. Davette onlara cazip bir ödül karşılığında çocuk oyunlarında yarışmaları teklif edilir. Teklifi kabul eden oyuncular, yarışmayı kazanırlarsa 40 milyon dolarlık büyük ödülün sahibi olacaktır. Ancak ödül cazip olsa da oyunun ölümcük riskleri vardır.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKkX9bvFz0GsqqnHZABBL6uoLmg.jpg",
+      "id": 14
+    },
+    {
+      "name": "How I Met Your Mother ",
+      "rating": "8.9",
+      "imageURL": "https://image.tmdb.org/t/p/w500/fyeicuHwcrK7QRvRNFq5G0EGbkO.jpg",
+      "overview": "Bir baba, çocuklarına -bir dizi geri dönüşle- kendisinin ve en iyi dört arkadaşının anneleriyle tanışmasına kadar çıktığı yolculuğu anlatır.",
+      "id": 16
+    },
+    {
+      "name": "Harry Potter ",
+      "rating": "8.6",
+      "imageURL": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "overview": "Harry Potter, İngiliz yazar J. K. Rowling tarafından yazılmış yedi fantastik romandan oluşan bir seridir. Romanlar, Hogwarts Cadılık ve Büyücülük Okulu'nda eğitim gören genç büyücü Harry Potter ile arkadaşları Hermione Granger ve Ron Weasley'nin yaşamlarını konu alır.",
+      "id": 17
+    },
+    {
+      "name": "Bridgerton",
+      "rating": "9.2",
+      "imageURL": "https://m.media-amazon.com/images/M/MV5BNjk4MDdhODctMmFhYi00ZTNhLThlN2UtN2NhZGY0OGFlMWEwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
+      "overview": "Bridgerton, Chris Van Dusen tarafından yaratılan ve Shonda Rhimes tarafından prodüksiyonu sağlanan bir dönem draması dizisidir. Dizi Julia Quinn'in romanlarındaki rekabetçi sosyete dünyasına dayanmaktadır.",
+      "id": 18
+    }
+  ]
+}
